@@ -17,18 +17,14 @@ c.cretae Online Diagnostic Lab Management System folder ,place odlms and sql fol
 
 7.Run the script http://localhost/odlms
 
-Admin Credential
+Admin Credential 
+Username: dbms_mini_project 
+Password:dbms12345 
 
-Username: admin
-Password: Test@123
+Employee Credential 
+Username: lab001 
+Password: abhi123 
 
-Employee Credential
-
-Username: lab1124
-Password: Test@123
-
-
-User/ pateint Credential
-
-Username: testuser@gmail.com
-Password: Test@123
+User/ pateint Credential 
+Username: drupad1522@gmail.com 
+Password: drupad1522

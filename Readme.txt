@@ -1,9 +1,13 @@
 How to run the Online Diagnostic Lab Management System Project (ODLMS)
 1. Download the zip file
 
-2. Extract the file and copy odlms folder
+2. Extract the file
+After this follow some additional steps:
+a.create odlms folder,add all files in the zip(excluding report,ppt,readme pdf,odlms.sql file)
+b.create sql folder add odlms.sql in zip file
+c.cretae Online Diagnostic Lab Management System folder ,place odlms and sql folder.
 
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+3.copy odlms folder Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 

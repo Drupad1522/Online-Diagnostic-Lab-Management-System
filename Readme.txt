@@ -3,7 +3,7 @@ How to run the Online Diagnostic Lab Management System Project (ODLMS)
 
 2. Extract the file
 After this follow some additional steps:
-a.create odlms folder,add all files in the zip(excluding report,ppt,readme pdf,odlms.sql file)
+a.create odlms folder,add all files in the zip(admin,css,employee,fonts,images,js,user,index.php)
 b.create sql folder add odlms.sql in zip file
 c.cretae Online Diagnostic Lab Management System folder ,place odlms and sql folder.
 
